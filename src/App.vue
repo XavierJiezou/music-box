@@ -528,7 +528,7 @@ export default {
               hash:hash
             }
         }).then(
-            function (res) { that.musicUrl=res.data.url },
+            function (res) { console.log(res);that.musicUrl=res.data.url },
             function (err) { console.log(err) }
         )
         this.audioPlayorPause = !this.audioPlayorPause

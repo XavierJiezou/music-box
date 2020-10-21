@@ -1,4 +1,5 @@
 # music-box
+Search free music from wangyiyun, qq, kugou, kuwo, migu, and baidu.
 
 ## Project setup
 ```
@@ -27,10 +28,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```bash
 start nginx
 ```
-then visit http://localhost:80/ in browser
+Visit http://localhost:80/ in browser.
 
 ## Todo
-- [x] lyric
-- [x] playlist
-
-
+- [ ] lyric
+- [ ] playlist
+- [ ] ximi

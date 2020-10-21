@@ -1,6 +1,12 @@
 # music-box
 Search free music from wangyiyun, qq, kugou, kuwo, migu, and baidu in china.
 
+## demo
+- musicPlay
+![playMusic](demo/playMusic.png)
+- mvPlay
+![playMv](demo/playMv.png)
+
 ## Project setup
 ```
 yarn install
@@ -31,6 +37,6 @@ start nginx
 Visit http://localhost:80/ in browser.
 
 ## Todo
-- [ ] lyric
-- [ ] playlist
-- [ ] xiami
+- [ ] Lyric
+- [ ] Playlist
+- [ ] Xiami

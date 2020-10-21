@@ -1,5 +1,5 @@
 # music-box
-Search free music from wangyiyun, qq, kugou, kuwo, migu, and baidu.
+Search free music from wangyiyun, qq, kugou, kuwo, migu, and baidu in china.
 
 ## Project setup
 ```
@@ -25,7 +25,7 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Nginx
-```bash
+```
 start nginx
 ```
 Visit http://localhost:80/ in browser.

@@ -33,4 +33,4 @@ Visit http://localhost:80/ in browser.
 ## Todo
 - [ ] lyric
 - [ ] playlist
-- [ ] ximi
+- [ ] xiami

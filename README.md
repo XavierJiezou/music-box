@@ -1,7 +1,7 @@
-# music-box
+# Music-Box
 Search free music from wangyiyun, qq, kugou, kuwo, migu, and baidu in china.
 
-## demo
+## Demo
 - musicPlay
 ![playMusic](demo/playMusic.png)
 - mvPlay
